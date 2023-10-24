@@ -3,7 +3,7 @@
 }
 
 body{
-    background: #161815;
+    background-color: #161815;
 }
 
 .section-padding{
@@ -32,4 +32,14 @@ body{
     margin: auto;
     font-size: 18px;
     line-height: 1.9;
+}
+
+footer{
+    background-color: #161815;
+    padding: 20px;
+    
+}
+
+.img-logo{
+    width: 100px;
 }
