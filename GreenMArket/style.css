@@ -2,10 +2,6 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-body{
-    background-color: #161815;
-}
-
 .section-padding{
     padding: 70px;
 }
@@ -22,7 +18,7 @@ body{
 
 .carousel-caption h5{
     font-size: 45px;
-    text-transform: uppercase;
+
     letter-spacing: 2px;
     margin-top: 25px;
 }
@@ -35,16 +31,38 @@ body{
 }
 
 footer{
-    background-color: #161815;
+    background-color: #000000;
     padding: 20px;
-    
+    color: white;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 
 .img-logo{
-    width: 100px;
+    width: 200px;
 }
-¨
 
-.col-lg-4{
+.card{
+    margin-bottom: 10px;
+}
+
+.navbar{
+    background-color: #c9efc7;
+}
+
+.about-text{
+    text-align: center;
+    background-color: #c9efc7;
+    padding: 20px
+}
+
+.about-text{
+    background-color: #c9efc7;
+
+}
+
+.section-header{
+    background-color: #c9efc7;
+    padding: 20px;
     margin-bottom: 20px;
 }
