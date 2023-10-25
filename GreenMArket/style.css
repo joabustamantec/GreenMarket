@@ -11,8 +11,7 @@
 }
 
 .section-padding{
-    padding: 70px;
-    margin: 70px;
+    padding: 30px;
 }
 
 .carousel-item{
@@ -62,11 +61,6 @@ footer{
     text-align: center;
     background-color: #c9efc7;
     padding: 20px
-}
-
-.about-text{
-    background-color: #c9efc7;
-
 }
 
 .section-header{
