@@ -12,6 +12,7 @@
 
 .section-padding{
     padding: 70px;
+    margin: 70px;
 }
 
 .carousel-item{
@@ -38,10 +39,10 @@
 footer{
     background-color: #0d5a17;
     opacity: 0.5;
-    padding: 20px;
     color: white;
-    padding-left: 200px;
-    padding-right: 200px;
+    padding: 20px;
+    padding-left: 10%;
+    padding-right:10%;
 }b
 
 .img-logo{
@@ -50,6 +51,7 @@ footer{
 
 .card{
     margin-bottom: 10px;
+    opacity: 0.5;
 }
 
 .navbar{
