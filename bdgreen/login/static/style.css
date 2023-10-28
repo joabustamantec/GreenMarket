@@ -1,0 +1,80 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fondo{
+    background-image: url(/bdgreen/bdgreen/static/img/fondo.svg);
+    height: max-content;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.section-padding{
+    padding: 30px;
+}
+
+.carousel-item{
+    height: 80vh;
+    min-height: 300px;
+}
+
+.carousel-caption{
+    z-index: 2;
+}
+
+.carousel-caption h5{
+    font-size: 45px;
+    letter-spacing: 2px;
+}
+
+.carousel-caption p{
+    width: 60%;
+    margin: auto;
+    font-size: 18px;
+    line-height: 1.9;
+}
+
+footer{
+    background-color: #0d5a17;
+    opacity: 0.5;
+    color: white;
+    padding: 20px;
+    padding-left: 10%;
+    padding-right:10%;
+}b
+
+.img-logo{
+    width: 200px;
+}
+
+.card{
+    margin-bottom: 10px;
+    opacity: 0.5;
+}
+
+.navbar{
+    background-color: #c9efc7;
+}
+
+.about-text{
+    text-align: center;
+    background-color: #c9efc7;
+    padding: 20px
+}
+
+
+.section-header{
+    background-color: #c9efc7;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+
+.formulario{
+    padding-top: 30%;
+    padding-bottom: 20%;
+    margin-right: 30%;
+    margin-left: 30%;
+}
+
